@@ -1,0 +1,18 @@
+/* #app {
+  width: 80vw;
+  height: 80vh;
+  background-color: rgb(192, 238, 234);
+  margin: 10vh auto;
+  position: relative;
+} */
+
+#box {
+  width: 10vw;
+  height: 10vh;
+  background-color: purple;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+}
